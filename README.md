@@ -131,7 +131,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/AssistanceDemo.git
+git clone https://github.com/chauphan-94/AssistanceDemo.git
 
 # Navigate to the project directory
 cd AssistanceDemo
@@ -188,7 +188,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-by%20Developers%20for%20Developers-red">
+<img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-by%20Mabu%20for%20Developer-red">
 
 *Last updated: May 19, 2025*
 
