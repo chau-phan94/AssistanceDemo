@@ -12,9 +12,6 @@
 
 - **🧠 AI Code Generation**: Transform images (like Figma designs) or text descriptions into production-ready SwiftUI code
 - **📋 Clipboard Integration**: Seamlessly process content from your clipboard with a single click
-- **💬 Chat Interface**: Interact naturally with the AI assistant through an intuitive conversational interface
-- **🎤 Voice Recognition**: Leverage advanced speech-to-text capabilities for hands-free operation
-
 ## 🗺️ Project Roadmap
 
 ### 🔨 Phase 1: Core Xcode Extension Foundation (1-2 months)
