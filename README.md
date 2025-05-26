@@ -94,11 +94,6 @@
   - Web technologies (JavaScript, CSS)
   - Cross-language translation
 
-- [  ] **Voice Command Integration**
-  - Enhanced speech-to-text for code editing
-  - Voice commands for Xcode actions
-  - Conversational coding assistance
-
 ## 💎 Value Proposition
 
 <table>
